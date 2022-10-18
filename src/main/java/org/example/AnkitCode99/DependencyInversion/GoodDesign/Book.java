@@ -11,3 +11,7 @@ public class Book implements Product{
 
     }
 }
+
+/**
+ * The open principle is followed by BOOK Class here
+ * */
