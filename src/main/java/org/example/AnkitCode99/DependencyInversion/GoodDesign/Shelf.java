@@ -11,5 +11,8 @@ public class Shelf {
     void customizeShelf(){
 
     }
-
 }
+
+/**
+ * Here the Product interface is used to refer both Book and DVD items hence allowing code extensibility.
+ * */
